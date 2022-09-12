@@ -26,6 +26,7 @@ h4 {
     font-family: 'Merriweather', sans-serif;
 }
 
+
 h6 {
     font-size: 12.5px;
 }
@@ -59,8 +60,9 @@ h6 {
 }
 
 .year {
-    padding: 5px;
-    color: #fff;
+	padding: 5px;
+	color: #fff;
+	font-size: 12.5px;
 }
 
 /* Work */
@@ -78,10 +80,6 @@ h6 {
     background-color: #FCF8E8;
     padding: 40px;
     margin-right: 60px;
-}
-
-.certificates {
-    font-size: 12px;
 }
 
 /* Skills-Languages */
@@ -141,5 +139,4 @@ h6 {
         transform: rotate(0);
     }
 }
-
 
