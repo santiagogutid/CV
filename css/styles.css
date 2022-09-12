@@ -26,6 +26,10 @@ h4 {
     font-family: 'Merriweather', sans-serif;
 }
 
+h6 {
+    font-size: 12.5px;
+}
+
 /* Navigation bar */
 
 .navbar {
@@ -52,6 +56,11 @@ h4 {
     background-color: #94B49F;
     text-align: right;
     padding: 20px;
+}
+
+.year {
+	padding: 5px;
+	color: #fff
 }
 
 /* Work */
